@@ -28,8 +28,10 @@ def add_docs(path, text=True):
 
     vectorstore.add_documents(docs)
 
-def similsearch(query, k=1):
-    return vectorstore.similarity_search(query, k)
+def similsearch(query, k=4):
+    results = vectorstore.similarity_search(query, k)
+    return results
+
 
 if __name__ == '__main__':
     # Loading the pdf docs
