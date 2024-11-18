@@ -34,8 +34,14 @@ def similsearch(query, k=4):
 
 
 if __name__ == '__main__':
+    '''
     # Loading the pdf docs
-    loader = DirectoryLoader('raw_data', glob="./*.pdf", loader_cls=PyPDFLoader)
+    loader = DirectoryLoader('raw_data', glob="./*.pdf", loader_cls=PyPDFLoaderLoader)
+    documents = loader.load()
+    '''
+
+    # Loading the text docs
+    loader = DirectoryLoader('raw_data', glob="./*.txt", loader_cls=TextLoader)
     documents = loader.load()
 
     # Splitting the text

@@ -1,0 +1,307 @@
+URGENT
+BY FAX/SPOST/EMAIL
+To
+F.No. 225/193/2016/ITA.II
+Government of India
+Ministry of Finance
+Department of Revenue (CBDT)
+All Principal Chief Commissioners of Income-tax
+Sir/Madam
+North Block, New Delhi, the 25 of July, 2016
+Subject: Corrigendum regarding the 'Letter Template' issued vide letter of Board
+dated 22.07.2016 in connection with handling of AIR transactions without valid PAN-
+regd.-
+Please refer to the above communiqué in file of even number wherein at para 3.
+Board had specified and enclosed Template' of Letter to be issued to the 'transacting party'.
+2.
+In this regard, I am directed to bring to kind notice that subsequently ADG (Systems)-
+2 vide e-mail dated 23.07.2016 addressed to all Pr. CCSIT has enclosed the revised
+'Template' to be used while communicating in P2 & P3 category cases by the field
+formations. The same is enclosed for ready reference. Thus, the earlier 'Template' format
+issued vide letter dated 22.07.2016 may please be ignored.
+3.
+The above may kindly be brought to the notice of all concerned so to ensure that only
+the revised Template' is used while handling reported cases of AIR transactions without
+valid PAN as per Standard Operating Procedure dated 22.07.2016.
+Enclosure: Revised Template Letter
+Yours faithfully,
+Copy to:
+i.
+ii.
+iv.
+v.
+PS to Chairman (CBDT)/All Members, CBDT
+PS to Revenue Secretary
+(Rohit Garg)
+Deputy Secretary to Government of India
+Pr. DGIT(Systems) for effectuating necessary modification
+Addl. CIT, Data base Cell for uploading on irsofficers website
+ADG-4, Systems for uploading on incometaxindia website
+Rg
+(Rohit Garg)
+Deputy Secretary to Government of India
+Non-PAN AIR/<LetterID>
+To,
+INCOME TAX DEPARTMENT
+Date: ___
+Bar Code
+Sir/Madam,
+Subject: Request for linking of large value transaction(s) to a valid PAN
+As you are aware, the Government of India functions based on collection of tax
+revenues, contributed by large number of taxpayers. If you are also one such tax payer, we
+would like to thank you for your contribution to the tax kitty of Government of India. We need
+your cooperation in this matter.
+2.
+The Income Tax Department has received information about large value transactions
+relating to you under the Annual Information Return (AIR) without a valid PAN. The list of
+such transactions is provided overleaf.
+3. You are requested to submit the on-line response as under:
+4.
+i.
+ii.
+iv.
+Login to e-filing portal at https://incometaxindiaefiling.gov.in. If you are not registered
+with the e-filing portal, use the 'Register Yourself' link to register.
+Click on "Non-PAN Transaction" link under "Quick links" or "Compliance" section and
+search using the Transaction Sequence Number (TSN) communicated to you.
+Confirm that the transaction relates to you. By confirming, the transaction will be
+linked to your PAN and further details will be visible
+Submit online response and keep acknowledgement for record.
+Submission of electronic response will be treated as response to this letter. You are
+not required to visit Income tax office or send any letter or document in response to this
+letter. In case you make a mistake in submission of response, you may further revise it by
+login to e-filing portal.
+5. If no response is electronically submitted within 15 days of receipt of this letter,
+appropriate proceedings under Income Tax Act, 1961 may be initiated.
+6. You may use Departmental helpline to ask questions or send e-mail for clarifications.
+Please quote your unique transaction sequence number in any email that you may send.
+Our toll free helpline number is 1800 180 1961 (Option 5) and email address is.
+This letter has been electronically generated and requires no physical signature.
+SI.
+No.
+List of Transaction(s) reported without a valid PAN
+Transaction F.Y. Information Information Description
+Sequence
+Code
+Amount
+Number
+(TSN)
+1
+2
+3
+4
+1000002223 2009-10 AIR-007
+1000012123 2009-10 AIR-007
+1000023567 2010-11 AIR-001
+1000007866 2010-11 AIR-001
+Purchase of Immovable Property
+Purchase of Immovable Property
+<XX.XX.XXX>
+<XXXXXXX>
+Cash Deposit in Bank Account
+Sale of Immovable Property
+<XX.XX.XXX>
+<XX.XX.XXX>
+For kind information of all
+The Government has opened an Income Declaration Scheme from 1 June 2016 to 30"
+September 2016, under which any undisclosed income can be declared by payment of tax
+and penalty. Please refer to the website http://www.incometaxindia.gov.in for details.
+Dedate chan
+IDS
+ Draft letter sample for filing after due date 
+The PCIT/PCCIT/Central Board of Direct Taxes,
+
+New Delhi.
+
+Through ITO Ward……………. 
+
+Dear Sir,
+
+Sub.: Petition for condonation of delay in filing Return and Claim of Refund/ loss claim. A.Y. 2021-2022.
+
+PAN : _____________
+
+ITO Ward: 
+
+We are assessed for Income-tax in (your ITO )as per the above-mentioned PAN. Our Case falls within the jurisdiction of the Chief Commissioner of Income Tax, ……………
+
+I've received a tax assessment on an individual basis. There were several problems in the year before to A.Y. 2022-2023. Nevertheless, despite the fact that I prepared my return in accordance with the Act's requirements, it was unable to be submitted for the following reasons.
+
+    I was not at my Job location due to Covid issues.
+    There were some serious health issues going on in my family.
+    The income-tax website was not ready at that time.
+    Reconciliation with the AIS statement issued by the Income-tax Department,
+    Arranging documents and information as per the latest AIS statement.
+
+The total refund due/losses claimed to me is Rs. ……………... I understand that as the prescribed time limits have long been passed, the jurisdiction for admitting the return and the claim of refund, now rests only with the Board, Hence this application.
+
+It may further be appreciated that I was prevented from filing the return and claiming the refund within the prescribed time limit, due to reasonable cause and the non-acceptance will cause genuine hardship to me.
+
+Anticipating a favourable response.
+
+Yours truly,
+ How to e-Verify Your Income Tax Return 
+You can e-verify your Indian income tax return by following a few simple steps provided by the Income Tax Department of India. Take a look at the following step-by-step instructions listed below:
+
+Step 1: Visit www.incometax.gov.in/iec/foportal and Sign in / Register to the Income-tax Department of India portal using your PAN and password.
+
+
+Step 2:  On the top menu bar click on e-file>>Income Tax Returns>>E-Verify Return. You will see the list of returns to be e-verified.
+
+
+Step 3: Now click on E-Verify and you will get various options to complete the step.
+
+
+ 
+You can e-verify your return through various modes listed below-:
+
+    I would like to verify using OTP on the mobile number registered with Aadhaar
+    Generate Electronic Verification Code (EVC)
+    Through Net Banking
+    Through Bank Account
+    Through Demat Account
+    I already have an Electronic Verification Code (EVC)
+    I already have an OTP on my Mobile number registered with your given Aadhaar
+
+Note: The time limit for verifying Income Tax Returns (ITRs) has been reduced from 120 days to 30 days after electronically transmitting the information. 
+
+ Due Date and Last Date for filing of Income-tax Return 
+
+The return of income earned in a year (Previous Year) is to be filed in the next year (Assessment Year). For example, the return of income earned in Financial Year 2022-23 (Previous Year) is to be filed in the next Financial Year 2023-24 (Assessment Year).
+
+The due date is the date till which you can file your original return of income without any late filing fees u/s 234F. The due date of filing the return for Individuals and HUFs (who are not liable to tax audit) is 31st July of the Assessment Year. The government may extend the due date of filing the return of income due to certain situations.
+
+ 
+Extended due dates for filing of Income-tax returns:
+Financial Year 	Assessment Year 	Due Date
+2022-23 	2023-24 	31st July 2023
+2021-22 	2022-23 	31st July 2022
+2020-21 	2021-22 	31st December 2021
+2019-20 	2020-21 	31st May 2021
+2018-19 	2019-20 	31st August 2019
+2017-18 	2018-19 	31st August 2018
+2016-17 	2017-18 	31st July 2017
+2015-16 	2016-17 	5th August 2016
+2014-15 	2015-16 	31st August 2015
+2013-14 	2014-15 	31st July 2014
+2012-13 	2013-14 	5th August 2013
+2011-12 	2012-13 	31st August 2012
+2010-11 	2011-12 	31st July 2011
+ 
+ Always file the returns within the due date to avoid any penalty and interest.
+
+The last date is the date after which the return for the said years cannot be filed. If the due date to file the return is missed, the same can be filed within the last date. The last date for filing the return is as follows: 
+Financial Year 	Assessment Year 	Last Date
+2022-23 	2023-24 	31st December 2023
+
+Please note that after the due date, only a belated return for the said years can be filed along with late filing fees and penalties.
+
+ Time limit for Verification of ITR 
+After you file your Income-tax return you are required to verify it to complete the process. If you fail to verify the return within the stipulated time it is treated as invalid. The easiest way to verify the Income-tax return is through e-verification.
+
+What is the time limit to verify the return?
+
+A taxpayer is required to verify the return within 120 days of filing the return.
+
+What are the steps to e-verify the return?
+
+Click here to know the steps to e-verify the return.
+
+Is it mandatory to e-Verify the return?
+
+No. E-verification is one of the methods of verification. You can verify your return by any of the following methods:
+
+    E-verification
+    Send a signed copy of ITR V to CPC, Bangalore
+
+Can I verify my return if I forgot to verify the same within the stipulated time?
+
+Yes. You are required to submit a request for condonation of delay in verifying the return. You need to provide appropriate reasons for the delay.  However, the return will be considered verified only if the Department approves the condonation request.
+
+Follow the below steps to submit a request for condonation:
+
+Step 1: Log in to the Income-tax portal:
+
+mceclip0.png
+
+Step 2: Click on "Condonation Request" under the Services tab:
+
+mceclip1.png
+
+Step 3: Click on "Delay in submission of ITR-V" then click on Continue:
+
+mceclip2.png
+
+Step 4: Click on "Create Condonation Request":
+
+mceclip3.png
+
+Step 5: Select the record for which you wish to submit a condonation request and click on Continue:
+
+mceclip4.png
+
+Step 6: Provide a reason for the delay and then click on Submit:
+
+mceclip5.png
+
+Step 7: You will see the below screen displaying the transaction id. Preserve this transaction id for future reference. You will also receive a confirmation message on your registered email id:
+
+ Forgot to file return before the Last date? What now? 
+
+The due date to file an Income-tax return for the FY 2021-22 (AY 2022-23) was 31st July 2022 and the last date to file the return was 31st December 2022. Many of you could have missed the last date to file a return due to various reasons. You must be wondering what now? First of all, do not panic. All is not lost. You still have a small ray of hope. You can apply for condonation of delay in filing Income-tax returns. If the Department accepts the return your return will be processed.
+
+Let us guide you through.
+
+ 
+
+Option 1: Online process through Income-tax website
+
+Step 1: Log in to the Income-tax portal:
+
+mceclip0.png
+
+Step 2: Click on "Condonation Request" under the Services tab:
+
+mceclip1.png
+
+Step 3: Click on "Allow ITR filing after time-barred" then click on Continue.
+
+mceclip2.png
+
+Step 4: Click on "Create Condonation Request":
+
+mceclip3.png
+
+Step 5: Enter all required details. Upload ITR (JSON file) for which you are requesting condonation. Upload supporting documents (PFD/XLS format) Maximum of 5 files can be uploaded each of which should not be more than 5 MB. Click on Submit:
+
+mceclip4.png
+
+mceclip5.png
+
+Step 6: E-verify your return. Click here to know the steps to e-verify
+
+After successful e-verification, you will see the below screen displaying the transaction id. Preserve this transaction id for future reference. You will also receive a confirmation e-mail on your registered e-mail id:
+
+mceclip6.png
+
+ 
+
+Option 2: Ofline process through Income-tax department
+
+ 
+
+If option 1 is not available in income-tax login, you can apply through the manual route, the process of which is displayed in the following flowchart:-
+
+ 
+
+Process_Flowchart.png
+
+ 
+
+You can find the application format from this link:- 
+
+https://help.myitreturn.com/hc/en-us/articles/5956911716249
+
+ 
+
+Please click here to find your local Assessing officer
