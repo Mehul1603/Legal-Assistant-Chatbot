@@ -1,5 +1,8 @@
 # Legal Assistant Chatbot Using Retrieval-Augmented Generation (RAG)
 
+# App link
+https://legal-assistant-chatbot-gpqc2m5merpbkjqh2vbadp.streamlit.app/
+
 ## Overview  
 This project is a **Legal Assistant Chatbot** that leverages **Retrieval-Augmented Generation (RAG)** to provide accurate and contextually relevant legal information. The chatbot integrates **natural language processing (NLP)** and **information retrieval systems** to make legal knowledge accessible to individuals, businesses, and researchers.  
 
