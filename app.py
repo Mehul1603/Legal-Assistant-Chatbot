@@ -52,10 +52,10 @@ if "memory" not in st.session_state:
     st.session_state.memory = ConversationBufferWindowMemory(k=2, memory_key="chat_history", return_messages=True)
 
 # Initialize the LLM 
-groq_api_key = os.getenv('GROQ_API_KEY')
+groq_api_key = st.secrets.get('GROQ_API_KEY', None)
 
 llm = ChatGroq(groq_api_key=groq_api_key,
-               model_name="mixtral-8x7b-32768",
+               model_name="llama-3.3-70b-versatile",
                temperature=0.5,
                max_tokens=1024)
 

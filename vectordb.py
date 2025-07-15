@@ -6,12 +6,13 @@ from langchain_community.document_loaders import TextLoader
 from langchain_text_splitters import CharacterTextSplitter
 from pinecone import Pinecone, ServerlessSpec
 import os
+import streamlit as st
 
 # Choose embeddings
 embeddings = HuggingFaceEmbeddings()
 
 # Vector Search DB in Pinecone
-api_key = os.getenv("PINECONE_API_KEY")
+api_key = st.secrets.get('PINECONE_API_KEY', None)
 os.environ['PINECONE_API_KEY'] = api_key
 index_name = "langchainvector"
 vectorstore = PineconeVectorStore(index_name=index_name, embedding=embeddings)
